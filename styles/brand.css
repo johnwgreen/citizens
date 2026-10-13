@@ -58,16 +58,16 @@
   --link-hover-color: #003a7a;
 
   /* brand palette */
-  --brand-green: #008555;
-  --brand-green-dark: #004f33;
+  --brand-green: #290efc;
+  --brand-green-dark: #090170;
   --cta-color: #d93d00;
   --cta-hover: #ad3000;
   --cta-active: #561800;
   --hero-bg: #f2f1ec;
 
   /* legacy aliases kept so existing block CSS keeps resolving */
-  --brand-navy: #004f33;
-  --brand-navy-border: #008555;
+  --brand-navy: #170275;
+  --brand-navy-border: #140557;
   --section-light-blue: #eaf3ff;
   --section-peach: #ffe8cf;
   --section-green: #e9f4ee;
